@@ -1,0 +1,41 @@
+body{
+
+	background-color: #000000;
+
+
+
+}
+
+
+.container{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#mik{
+	width: 80%;
+	padding-left: 20px;
+	padding-right: 20px;
+	min-height: 350px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	padding-top: 300px;
+	font-family: Comic Sans MS;
+}
+
+
+#korg{
+
+	background: url(../img/laptop.jpg);
+	background-color: white;
+}
+
+
+#korg form .butt{
+	float: right;
+
+}
